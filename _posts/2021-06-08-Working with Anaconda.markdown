@@ -17,4 +17,6 @@ Helpful resources :
 
 To come out of Conda completely: <em>conda deactivate</em>
 
+[Markdown Resource](https://www.markdownguide.org/basic-syntax/) Learning by doing
+
 
