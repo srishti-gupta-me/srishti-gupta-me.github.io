@@ -15,6 +15,6 @@ Helpful resources :
 
 [Anaconda Cheetsheat](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
 
-To come out of Conda completely: <em>conda deactivate</em>, one of the most useful commands I found. 
+To come out of Conda completely: <em>conda deactivate</em>
 
 
