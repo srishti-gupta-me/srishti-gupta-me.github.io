@@ -7,7 +7,7 @@ categories: jekyll update
 
 I am learning to work with [Nbdev](https://nbdev.fast.ai/). 
 
-One of the requirement is to install Anaconda and run nbdev library from the save server where Jupyter Notebook is running. 
+One of the requirement is to install Anaconda and run nbdev library from the same server where Jupyter Notebook is running. 
 
 Uptill now I utilised Google Colab or Paperspace Code for most of my work. 
 
