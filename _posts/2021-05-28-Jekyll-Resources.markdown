@@ -5,9 +5,7 @@ date:   2021-05-28 05:38:32 +0530
 categories: jekyll update
 ---
 
-This is a resource directory I used to create a page like this. 
-
-Refer to them in order or as you like. 
+This is a resource directory I used to create a page like this. Refer to them in order or as you like. 
 
 Firstly, building a Jekyll Github Page took me quite sometime even when I had some HTML and CSS experience. I faced a lot of issues, and particularly that my webpage was developing fine locally but not on Github Pages.
 
