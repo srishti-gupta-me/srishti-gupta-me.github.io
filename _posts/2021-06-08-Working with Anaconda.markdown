@@ -24,7 +24,7 @@ Uptill now I utilised Google Colab or Paperspace Code for most of my work.Howeve
 
 </ol>
 
-<li>On the docs page, I learnt about Anaconda Navigator which is a GUI and help me visualize which environment has what packages and libraries installed. Anaconda Navigator also makes it easy installing libraries to environments. For example, Jupyter Notebook is installed during Anaconda installation but is available in the base environment only. When a new enviroment is created it has to be added separately. <li>
+<li>On the docs page, I learnt about Anaconda Navigator which is a GUI and help me visualize which environment has what packages and libraries installed. Anaconda Navigator also makes it easy installing libraries to environments. For example, Jupyter Notebook is installed during Anaconda installation but is available in the base environment only. When a new enviroment is created it has to be added separately. </li>
 
 </ol>  
 
