@@ -13,9 +13,9 @@ Uptill now I utilised Google Colab or Paperspace Code for most of my work.
 
 However, here it required installing Anaconda, and I followed the documentation available on the site as it is. Without any issues. 
 
-<h4>Helpful resources: </h4>
+<h4>Issues I faced and resources that helped: </h4>
 
-[Anaconda Cheetsheat](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
+[Anaconda Cheetsheet](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
 
 I learnt that nbdev library was test to work on Python 3.7 and hence I needed Python 3.7 instead of 3.8 (also I was running through some errors and while searching for solutions I found it is easier to try with Python 3.7). This is where Anaconda is helful, you can create environments and I wanted to keep Python3.7 and Nbdev in one environment isolated. 
 
