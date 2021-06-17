@@ -18,11 +18,9 @@ Uptill now I utilised <b>Google Colab</b> or <b>Paperspace Code</b> for most of 
 
 I learnt that nbdev library was test to work on Python 3.7 and hence I needed Python 3.7 instead of Python 3.8 (also I was running through some errors and while searching for solutions I found it is easier to try with Python 3.7). This is where Anaconda comes handy, you can create environments and I wanted to keep Python 3.7 and Nbdev in one environment isolated.
 <br>
-
+  
 <a href="https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index">Anaconda Cheatsheet</a> 
 consists of command on how to create environments and activate and dectivate them.<b>To come out of base environment:<em>conda deactivate</em></b> </li>
-  
-<br>
 
 <li>
 Learning how can I add packages to a specific environment in conda only.By now I had setup a Python 3.7 environment but when I was installing Nbdev library, for some reason it was available globally. This is when I went back to <a href="https://docs.anaconda.com/anaconda/">Anaconda Documentation page</a>. 
