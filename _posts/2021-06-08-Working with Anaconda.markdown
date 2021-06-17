@@ -49,5 +49,3 @@ Learning how can I add packages to a specific environment in conda only.<br>By n
 
 </ul>
 
-[Markdown Resource](https://www.markdownguide.org/basic-syntax/) As I am learning Markdown by doing
-
