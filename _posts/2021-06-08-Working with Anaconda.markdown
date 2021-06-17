@@ -22,10 +22,10 @@ I learnt that nbdev library was test to work on Python 3.7 and hence I needed Py
 <a href="https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index">Anaconda Cheatsheet</a> 
 consists of command on how to create environments and activate and dectivate them.**To come out of Conda completely: <em>conda deactivate</em>** </li>
   
-
+<br>
 
 <li>
-Learning how can I add packages to a specific environment in conda only?<br>By now I had setup a Python 3.7 environment but when I was installing Nbdev library, for some reason it was available globally. This is when I went back to [Anaconda Documentation page](https://docs.anaconda.com/anaconda/). 
+Learning how can I add packages to a specific environment in conda only.<br>By now I had setup a Python 3.7 environment but when I was installing Nbdev library, for some reason it was available globally. This is when I went back to [Anaconda Documentation page](https://docs.anaconda.com/anaconda/). 
 
 </li>
   
