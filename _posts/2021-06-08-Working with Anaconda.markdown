@@ -27,8 +27,7 @@ Learning how can I add packages to a specific environment in conda only.By now I
 </li>
   
 <ul>
-<li>How I knew it was available globally?<br>I could access the nbdev library from the (base) enviroment as well.</li>
-</ul>
+<li>How I knew it was available globally?<br>I could access the nbdev library from the (base) enviroment as well.</li></ul>
 <br>
 <li>On the docs page, I learnt about Anaconda Navigator which is a GUI and help me visualize which environment has what packages and libraries installed. Anaconda Navigator also makes it easy installing libraries to environments. For example, Jupyter Notebook is installed during Anaconda installation but is available in the base environment only. When a new enviroment is created it has to be added separately. </li>
 
