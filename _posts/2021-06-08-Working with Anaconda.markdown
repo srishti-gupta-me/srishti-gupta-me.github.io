@@ -14,9 +14,17 @@ Uptill now I utilised Google Colab or Paperspace Code for most of my work.Howeve
 <h4>Issues I faced and resources that helped: </h4>
 
 <ul>
-<li><p>I learnt that nbdev library was test to work on Python 3.7 and hence I needed Python 3.7 instead of 3.8 (also I was running through some errors and while searching for solutions I found it is easier to try with Python 3.7). This is where Anaconda is helful, you can create environments and I wanted to keep Python3.7 and Nbdev in one environment isolated.<br> [Anaconda Cheetsheet](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index) The cheatsheet, consists of command on how to create environments and activate and dectivate them.**To come out of Conda completely: <em>conda deactivate</em>**</p> </li>
+<li>
+<p>
 
-<li>Learning how can I add packages to a specific environment in conda only?<br>By now I had setup a Python 3.7 environment but when I was installing Nbdev library, for some reason it was available globally. This is when I went back to [Anaconda Documentation page](https://docs.anaconda.com/anaconda/). </li>
+I learnt that nbdev library was test to work on Python 3.7 and hence I needed Python 3.7 instead of 3.8 (also I was running through some errors and while searching for solutions I found it is easier to try with Python 3.7). This is where Anaconda is helful, you can create environments and I wanted to keep Python3.7 and Nbdev in one environment isolated.<br> [Anaconda Cheetsheet](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index) The cheatsheet, consists of command on how to create environments and activate and dectivate them.**To come out of Conda completely: <em>conda deactivate</em>**
+  
+</p> </li>
+
+<li>
+Learning how can I add packages to a specific environment in conda only?<br>By now I had setup a Python 3.7 environment but when I was installing Nbdev library, for some reason it was available globally. This is when I went back to [Anaconda Documentation page](https://docs.anaconda.com/anaconda/). 
+
+</li>
   
 <ul>
 
@@ -33,7 +41,7 @@ Uptill now I utilised Google Colab or Paperspace Code for most of my work.Howeve
 <ol>
 
 <li>[Settings.ini](https://github.com/fastai/nbdev/blob/master/settings.ini) need to be updated with Copyright field, solution that worked was <em>copying author name</em> here. </li> 
-
+<br>
 <li>[On Ubuntu 20.10 and latest version of Windows 10, Anaconda installs nbdev-0.2.40 when the conda install -c fastai nbdev command is used per the Tutorial's instructions. When the nbdev_build_lib command is issued, it fails with an error on the "docs/_data/topnav.yml" file.To fix this (on Ubuntu), I had to force Anaconda to upgrade to the latest version of nbdev (1.1.13) with this command: conda upgrade -c fastai nbdev. I suspect this will also fix things on Windows 10, too. You may wish to consider mentioning this in your docs. An earlier reported issue, with the same problem, solved this by using pip instead on conda, but the conda upgrade command did the trick for me.](https://github.com/fastai/nbdev/issues/451) </li>
 
 </ol>
