@@ -20,7 +20,7 @@ I learnt that nbdev library was test to work on Python 3.7 and hence I needed Py
 <br>
 
 <a href="https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index">Anaconda Cheatsheet</a> 
-consists of command on how to create environments and activate and dectivate them.<b>To come out of Conda completely: <em>conda deactivate</em></b> </li>
+consists of command on how to create environments and activate and dectivate them.<b>To come out of base environment:<em>conda deactivate</em></b> </li>
   
 <br>
 
