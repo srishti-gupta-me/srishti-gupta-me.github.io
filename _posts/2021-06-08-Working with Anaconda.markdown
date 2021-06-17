@@ -9,15 +9,17 @@ I am learning to work with Nbdev.
 
 One of the requirement is to install Anaconda and run nbdev library from the save server where Jupyter Notebook is running. 
 
-It required installing Anaconda, and I followed the documentation available on the site as it is. 
+Uptill now I utilised Google Colab or Paperspace Code for most of my work. 
 
-Helpful resources :
+However, here it required installing Anaconda, and I followed the documentation available on the site as it is. 
+
+<h6>Helpful resources: </h6>
 
 [Anaconda Cheetsheat](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
 
 To come out of Conda completely: <em>conda deactivate</em>
 
-[Markdown Resource](https://www.markdownguide.org/basic-syntax/) Learning by doing
+[Markdown Resource](https://www.markdownguide.org/basic-syntax/) As I am learning Markdown by doing
 
 
 Learning how can I add packages to a specific environment in conda only?
