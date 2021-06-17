@@ -21,7 +21,7 @@ I learnt that nbdev library was test to work on Python 3.7 and hence I needed Py
 
 The above cheat sheet, consists of command on how to create environments and activate and dectivate them. 
 
-** To come out of Conda completely: <em>conda deactivate</em> **
+**To come out of Conda completely: <em>conda deactivate</em>**
 
 [Markdown Resource](https://www.markdownguide.org/basic-syntax/) As I am learning Markdown by doing
 
