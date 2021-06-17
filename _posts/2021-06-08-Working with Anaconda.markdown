@@ -43,9 +43,9 @@ Learning how can I add packages to a specific environment in conda only.<br>By n
 
 <ol>
 
-<li>  [Settings.ini](https://github.com/fastai/nbdev/blob/master/settings.ini) need to be updated with Copyright field, solution that worked was <em>copying author name</em> here. </li> 
+<li> <a href="https://github.com/fastai/nbdev/blob/master/settings.ini">Settings.ini</a> need to be updated with Copyright field, solution that worked was <em>copying author name</em> here. </li> 
 <br>
-<li>  [On Ubuntu 20.10 and latest version of Windows 10, Anaconda installs nbdev-0.2.40 when the conda install -c fastai nbdev command is used per the Tutorial's instructions. When the nbdev_build_lib command is issued, it fails with an error on the "docs/_data/topnav.yml" file.To fix this (on Ubuntu), I had to force Anaconda to upgrade to the latest version of nbdev (1.1.13) with this command: conda upgrade -c fastai nbdev. I suspect this will also fix things on Windows 10, too. You may wish to consider mentioning this in your docs. An earlier reported issue, with the same problem, solved this by using pip instead on conda, but the conda upgrade command did the trick for me.](https://github.com/fastai/nbdev/issues/451) </li>
+<li> <a href="https://github.com/fastai/nbdev/issues/451">On Ubuntu 20.10 and latest version of Windows 10, Anaconda installs nbdev-0.2.40 when the conda install -c fastai nbdev command is used per the Tutorial's instructions. When the nbdev_build_lib command is issued, it fails with an error on the "docs/_data/topnav.yml" file.To fix this (on Ubuntu), I had to force Anaconda to upgrade to the latest version of nbdev (1.1.13) with this command: conda upgrade -c fastai nbdev. I suspect this will also fix things on Windows 10, too. You may wish to consider mentioning this in your docs. An earlier reported issue, with the same problem, solved this by using pip instead on conda, but the conda upgrade command did the trick for me.</a> </li>
 
 </ol>
 
