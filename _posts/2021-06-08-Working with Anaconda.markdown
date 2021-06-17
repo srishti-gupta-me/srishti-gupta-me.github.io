@@ -25,7 +25,7 @@ consists of command on how to create environments and activate and dectivate the
 <br>
 
 <li>
-Learning how can I add packages to a specific environment in conda only.<br>By now I had setup a Python 3.7 environment but when I was installing Nbdev library, for some reason it was available globally. This is when I went back to <a href="https://docs.anaconda.com/anaconda/">Anaconda Documentation page</a>. 
+Learning how can I add packages to a specific environment in conda only.By now I had setup a Python 3.7 environment but when I was installing Nbdev library, for some reason it was available globally. This is when I went back to <a href="https://docs.anaconda.com/anaconda/">Anaconda Documentation page</a>. 
 
 </li>
   
