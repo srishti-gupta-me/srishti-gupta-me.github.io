@@ -7,6 +7,10 @@ permalink: /resume/
 
 <button class="btn"><a href="/assets/resume.pdf" download="resume.pdf">Download Resume!</a></button>
 
+<form method="get" action="/assets/resume.pdf">
+   <button type="submit">Download!</button>
+</form>
+
 <iframe src="/assets/resume.pdf#toolbar=0" width="100%" height="1000vh"></iframe>
 
 .btn {
