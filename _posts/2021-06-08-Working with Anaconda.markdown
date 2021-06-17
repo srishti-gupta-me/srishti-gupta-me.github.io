@@ -5,19 +5,23 @@ date:   2021-06-08 05:38:32 +0530
 categories: jekyll update
 ---
 
-I am learning to work with Nbdev. 
+I am learning to work with [Nbdev](https://nbdev.fast.ai/). 
 
 One of the requirement is to install Anaconda and run nbdev library from the save server where Jupyter Notebook is running. 
 
 Uptill now I utilised Google Colab or Paperspace Code for most of my work. 
 
-However, here it required installing Anaconda, and I followed the documentation available on the site as it is. 
+However, here it required installing Anaconda, and I followed the documentation available on the site as it is. Without any issues. 
 
 <h6>Helpful resources: </h6>
 
 [Anaconda Cheetsheat](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
 
-To come out of Conda completely: <em>conda deactivate</em>
+I learnt that nbdev library was test to work on Python 3.7 and hence I needed Python 3.7 instead of 3.8 (also I was running through some errors and while searching for solutions I found it is easier to try with Python 3.7). This is where Anaconda is helful, you can create environments and I wanted to keep Python3.7 and Nbdev in one environment isolated. 
+
+The above cheat sheet, consists of command on how to create environments and activate and dectivate them. 
+
+** To come out of Conda completely: <em>conda deactivate</em> **
 
 [Markdown Resource](https://www.markdownguide.org/basic-syntax/) As I am learning Markdown by doing
 
