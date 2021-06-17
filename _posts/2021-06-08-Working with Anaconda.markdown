@@ -13,7 +13,7 @@ Uptill now I utilised Google Colab or Paperspace Code for most of my work.
 
 However, here it required installing Anaconda, and I followed the documentation available on the site as it is. Without any issues. 
 
-<h6>Helpful resources: </h6>
+<h4>Helpful resources: </h4>
 
 [Anaconda Cheetsheat](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
 
