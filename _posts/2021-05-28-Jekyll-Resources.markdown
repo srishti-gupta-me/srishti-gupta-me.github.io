@@ -25,4 +25,7 @@ This is a resource directory I used to create a page like this. Refer to them in
 
 It took me more than 24 hours distributed over days to implement it. Understanding was easier, but in my case the solution given online weren't working. Once I was able to get the Favicon on my website, but the whole CSS vanished. Will explain reason behind this. At this point understanding about [layouts is good](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-layouts/). Using layouts help in avoiding repetition and utilising existing layouts/designs to build pages. 
 
+To get favicon on your website, you need your image/test/emoji to be converted into a format that can be utilised by the browser for displaying. There are online websites that do the task for you. Like [Favicon Generator for perfect icons on all browsers](https://realfavicongenerator.net/)
+
+
 
