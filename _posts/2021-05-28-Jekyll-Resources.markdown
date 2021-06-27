@@ -16,3 +16,5 @@ Firstly, building a Jekyll Github Page took me quite sometime even when I had so
 
 
 [How to delete Git Repository](https://www.w3docs.com/snippets/git/how-to-delete-git-repository-created-with-init.html) . This was also my first experience working with git and I created many repositories and ended up deleting all and restarted the whole process. 
+
+[To understand layouts](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-layouts/) : Helps in avoiding repetition and utilising existing layouts to build pages. 
