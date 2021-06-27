@@ -46,7 +46,7 @@ It took me more than 24 hours distributed over days to implement it. Understandi
               <meta name="theme-color" content="#ffffff">
 ```
 6. You need to create a custom-head.html in your *_includes* folder/directory. If you dont have *_includes* you need to create this folder/directory in the root directory (explained above the meaning of root). Then create a html file named custom-head in it. Refer to [minima theme custom-head.html](https://github.com/jekyll/minima/blob/master/_includes/custom-head.html). It calls for the process we have done until now. 
-7. Above code block to be pasted in custom-head.html file as it is, [example](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_includes/custom-head.html).<code>{%- include custom-head.html -%}</code>     
+7. Above code block to be pasted in custom-head.html file as it is, [example](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_includes/custom-head.html).<pre><code>{%- include custom-head.html -%}</code></pre>
 9. Inside the *_layouts* folder, there exist [default.html](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_layouts/default.html), in this I added tag for custom-head.html file edited above in Step 7.
 10. Now, we need to extract the favicons files that exist inside the zipped folder and place them inside the [*assets* directory](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/tree/gh-pages/assets).Now refresh the page or open the website in incognito mode or remove cache(clear browsing history).
 
