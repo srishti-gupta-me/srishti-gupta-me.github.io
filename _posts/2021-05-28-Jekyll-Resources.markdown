@@ -46,10 +46,11 @@ It took me more than 24 hours distributed over days to implement it. Understandi
               <meta name="theme-color" content="#ffffff">
 ```
 6. You need to create a custom-head.html in your *_includes* folder/directory. If you dont have *_includes* you need to create this folder/directory in the root directory (explained above the meaning of root). Then create a html file named custom-head in it. Refer to [minima theme custom-head.html](https://github.com/jekyll/minima/blob/master/_includes/custom-head.html). It calls for the process we have done until now. 
-7. Above code block to be pasted in custom-head.html file as it is, [example](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_includes/custom-head.html).<p><code>{%- include custom-head.html -%}</ code></ p>
+7. Above code block to be pasted in custom-head.html file as it is, [example](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_includes/custom-head.html).
 9. Inside the *_layouts* folder, there exist [default.html](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_layouts/default.html), in this I added tag for custom-head.html file edited above in Step 7.
 10. Now, we need to extract the favicons files that exist inside the zipped folder and place them inside the [*assets* directory](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/tree/gh-pages/assets).Now refresh the page or open the website in incognito mode or remove cache(clear browsing history).
 
+<pre><code>{%- include custom-head.html -%}</code></pre>
 
 Optional info: the [head.html](https://github.com/jekyll/minima/blob/master/_includes/head.html) has a tag for custom-head.html. This tag should extract the above code block and render the favicon. However, in my case it didn't work that simply. Then, I tried to create a head.html file in my *_includes* directory because by now my page was building even when I am playing around with the code in the custom-head.html, specifically with the href values in it. This meant that the head.html isn't extracting my code block, else build would have failed. Adding head.html made CCS to vanish. A look at head.html made clear that it is looking for a css file (see for the below code in the file) and then [css file](https://github.com/jekyll/minima/tree/master/assets/css). To avoid all that, I decided to move with Step 8 solution. 
 
