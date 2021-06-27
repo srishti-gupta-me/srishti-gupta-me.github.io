@@ -35,8 +35,8 @@ It took me more than 24 hours distributed over days to implement it. Understandi
      3. There are additional options also like Version/refresh, Compression. You can opt as per choice or leave it default only, unselected. 
 
 5. Now *Generate Favicons and HTML Code*, this will download a zipped file and give a block of code. 
-6. <code><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><br><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><br><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><br><link rel="manifest" href="/assets/site.webmanifest"><br><link rel="shortcut icon" href="/assets/favicon.ico"><br><meta name="msapplication-TileColor" content="#da532c">
-<meta name="msapplication-config" content="/assets/browserconfig.xml"><br><meta name="theme-color" content="#ffffff"></code>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><br><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><br><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><br><link rel="manifest" href="/assets/site.webmanifest"><br><link rel="shortcut icon" href="/assets/favicon.ico"><br><meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/browserconfig.xml"><br><meta name="theme-color" content="#ffffff">
 7. 
 
 
