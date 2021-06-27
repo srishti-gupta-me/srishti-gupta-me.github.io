@@ -49,14 +49,8 @@ It took me more than 24 hours distributed over days to implement it. Understandi
  7. Above code block to be pasted in custom-head.html file as it is, [example](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_includes/custom-head.html).
  8. Inside the *_layouts* folder, there exist [default.html](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_layouts/default.html), in this I added tag for custom-head.html file edited above in Step 7.**{%- include custom-head.html -%}**
  9. Now, we need to extract the favicons files that exist inside the zipped folder and place them inside the [*assets* directory](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/tree/gh-pages/assets).Now remove open the website in incognito mode or remove cache(clear browsing history).
-
-Optional info: the head.html has a tag. This tag should extract the above code block and render the favicon. However, in my case it didn't work that simply. **{%- include custom-head.html -%}** I tried to create a head.html file in my *_includes* directory but then my CCS vanished, because head.html searches for a css file and then css file import other files. To avoid all that, I decided to move with below step. 
+Optional info: the head.html has a tag. This tag should extract the above code block and render the favicon. However, in my case it didn't work that simply. **{%- include custom-head.html -%}** I tried to create a head.html file in my *_includes* directory but then my CCS vanished, because head.html searches for a css file and then css file import other files. To avoid all that, I decided to move with Step 8 solution. 
 
 ```` 
              <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-
-````  
-
-
-
-
+```` 
