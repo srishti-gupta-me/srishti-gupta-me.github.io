@@ -5,11 +5,13 @@ date:   2021-05-28 05:38:32 +0530
 categories: jekyll update
 ---
 
-This is a resource directory I used to create a page like this. Refer to them in order or as you like. 
-
 Firstly, building a Jekyll Github Page took me quite sometime (around 2 days, distributed over a week's time) even when I had some HTML and CSS experience. This means that if you read it is very easy for others don't stop feeling that you can't do it. I faced a lot of issues, and particularly that my webpage was developing fine locally, but not on remotely. Means that I was not able to host it on Guthub Pages. 
 
-[Mike Dane](https://www.youtube.com/watch?v=gsYqPL9EFwQ) I learnt mostly from his videos. He explains step-by-step and it will be good to do things with him.<br>However, if you like me are able to build the website locally(on the server that is run from your computer) but when you take it to Github pages the CSS vanishes. CSS vanishes means that design is removed and you are mostly see plain text spreading on the sheet, then this source may help you [CSS Vanish](https://github.community/t/css-not-being-applied-in-pages/10466).Root cause for mine was cache and I also learnt the other problems that might be the root cause for the failures. Most useful and thorough answer is by *Tammy Metz (tmetz)*<br>
+This is a resource directory I used to create a page like this. Refer to them in order or as you like. 
+
+[Mike Dane](https://www.youtube.com/watch?v=gsYqPL9EFwQ) I learnt mostly from his videos. He explains step-by-step and it will be good to do things with him.
+
+<br>However, if you like me are able to build the website locally(on the server that is run from your computer) but when you take it to Github pages the CSS vanishes. CSS vanishes means that design is removed and you are mostly see plain text spreading on the sheet, then this source may help you [CSS Vanish](https://github.community/t/css-not-being-applied-in-pages/10466).Root cause for mine was cache and I also learnt the other problems that might be the root cause for the failures. Most useful and thorough answer is by *Tammy Metz (tmetz)*<br>
 
 [To embed files](https://www.w3docs.com/snippets/html/how-to-embed-pdf-in-html.html) like pdfs, for example by Resume. 
 
