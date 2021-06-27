@@ -28,7 +28,8 @@ It took me more than 24 hours distributed over days to implement it. Understandi
 1. To get favicon on your website, you need your image/test/emoji to be converted into a format that can be utilised by the browser for displaying. There are online websites that do the task for you. Like [Favicon Generator for perfect icons on all browsers](https://realfavicongenerator.net/)
 2. The site is intuitive, you have to upload your image (which you want to display as favicon). The generator will process and suggest you to give another picture if dimensions aren't right or suggest to add margin and proceed with the current selection. Any option will have you created your favicon, look may asethically change.
 3. Now, it will display how your favicon will look on different browsers and devices. Against every browser and device (ios, android chrome, safari.. etc) it will give you options to improve the look of favicon as per choice and decide whether you want to keep it or not. 
-4. Once you are done, at the last *Favicon Generator Options* asks you the path you want. This will help generate the right code to be placed in html files for browser to display favicons.
+4. Once you are done, at the last *Favicon Generator Options* asks you the path you want. This will help generate the right code to be placed in html files for browser to display favicons. Root Directory here means where your *index.md* or *index.html* file is present. 
+5. Many Jeykll Themes (if you are following [Mike Dane](https://www.youtube.com/watch?v=gsYqPL9EFwQ), you might be using the default theme: minima) recommend that static files (pdf, images) should be kept inside *assets* folder/directory. In that case, in above point number 4 choose option 2 (I cannot or I do not want to place favicon files at the root of my web site. Instead I will place them here:)
 
 
 
