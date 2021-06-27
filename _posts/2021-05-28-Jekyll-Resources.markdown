@@ -34,7 +34,7 @@ It took me more than 24 hours distributed over days to implement it. Understandi
      2. What path to give?? If you want to keep in *assets* then **/assets** is your path
      3. There are additional options also like Version/refresh, Compression. You can opt as per choice or leave it default only, unselected. 
 
-5. Now *Generate Favicons and HTML Code*, this will download a zipped file and give a block of code. 
+5. Now *Generate Favicons and HTML Code*, this will download a zipped file and give a block of code. You can see **/assets** in the href tag. 
  ```
               <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
               <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
@@ -44,9 +44,9 @@ It took me more than 24 hours distributed over days to implement it. Understandi
               <meta name="msapplication-TileColor" content="#da532c">
               <meta name="msapplication-config" content="/assets/browserconfig.xml">
               <meta name="theme-color" content="#ffffff">
-         
   ```
- 6. 
+ 6. You need to create a custom-head.html in your *_includes* folder/directory. If you dont have *_includes* , you need to create this folder/directory in the root directory(exlained above the meaning of root). Then create a html file named custom-head in it. Refer to [minima theme custom-head.html](https://github.com/jekyll/minima/blob/master/_includes/custom-head.html). It calls for the process we have done until now. 
+ 7. Above code block to be pasted in custom-head.html file as it is. [Example](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_includes/custom-head.html). Optional info: the head.html has a tag  {%- include custom-head.html -%}. This tag should extract the above code block and render the favicon. However, in my case it didn't work that simply. I tried to create a head.html file in my *_includes* directory but then my CCS Vanished, because head.html searches for a css file ```` <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">````
 
 
 
