@@ -9,14 +9,14 @@ Firstly, building a Jekyll Github Page took me quite sometime (around 2 days, di
 
 This is a resource directory I used to create a page like this. Refer to them in order or as you like. 
 
-[Mike Dane](https://www.youtube.com/watch?v=gsYqPL9EFwQ) I learnt mostly from his videos. He explains step-by-step and it will be good to do things with him.
+1. [Mike Dane](https://www.youtube.com/watch?v=gsYqPL9EFwQ) I learnt mostly from his videos. He explains step-by-step and it will be good to do things with him.
 
-<br>However, if you like me are able to build the website locally(on the server that is run from your computer) but when you take it to Github pages the CSS vanishes. CSS vanishes means that design is removed and you are mostly see plain text spreading on the sheet, then this source may help you [CSS Vanish](https://github.community/t/css-not-being-applied-in-pages/10466).Root cause for mine was cache and I also learnt the other problems that might be the root cause for the failures. Most useful and thorough answer is by *Tammy Metz (tmetz)*<br>
+2. <br>However, if you like me are able to build the website locally(on the server that is run from your computer) but when you take it to Github pages the CSS vanishes. CSS vanishes means that design is removed and you are mostly see plain text spreading on the sheet, then this source may help you [CSS Vanish](https://github.community/t/css-not-being-applied-in-pages/10466).Root cause for mine was cache and I also learnt the other problems that might be the root cause for the failures. Most useful and thorough answer is by *Tammy Metz (tmetz)*<br>
 
-[To embed files](https://www.w3docs.com/snippets/html/how-to-embed-pdf-in-html.html) like pdfs, for example by Resume. 
+3. [To embed files](https://www.w3docs.com/snippets/html/how-to-embed-pdf-in-html.html) like pdfs, for example by Resume. 
 
 
-[How to delete Git Repository](https://www.w3docs.com/snippets/git/how-to-delete-git-repository-created-with-init.html) . This was also my first experience working with git and I created many repositories and ended up deleting all and restarted the whole process. 
+4. [How to delete Git Repository](https://www.w3docs.com/snippets/git/how-to-delete-git-repository-created-with-init.html) . This was also my first experience working with git and I created many repositories and ended up deleting all and restarted the whole process. 
 
 At this point it will be good to have some knowledge on git, [see this resource](https://www.atlassian.com/git/tutorials)
 
