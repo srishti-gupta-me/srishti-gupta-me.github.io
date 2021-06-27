@@ -30,7 +30,12 @@ It took me more than 24 hours distributed over days to implement it. Understandi
 3. Now, it will display how your favicon will look on different browsers and devices. Against every browser and device (ios, android chrome, safari.. etc) it will give you options to improve the look of favicon as per choice and decide whether you want to keep it or not. 
 4. Once you are done, at the last *Favicon Generator Options* asks you the path you want. This will help generate the right code to be placed in html files for browser to display favicons. Root Directory here means where your *index.md* or *index.html* file is present.
      
-     1. Many Jeykll Themes (if you are following [Mike Dane](https://www.youtube.com/watch?v=gsYqPL9EFwQ), you might be using the default theme: minima) recommend that static files (pdf, images) should be kept inside *assets* folder/directory. In that case, in above point number 4 choose option 2 (I cannot or I do not want to place favicon files at the root of my web site. Instead I will place them here:)
+     1. Many Jeykll Themes (if you are following [Mike Dane](https://www.youtube.com/watch?v=gsYqPL9EFwQ), you might be using the default theme: minima) recommend that static files (pdf, images) should be kept inside *assets* folder/directory. In that case, in above point number 4 choose option 2 (I cannot or I do not want to place favicon files at the root of my web site. Instead I will place them here:) 
+     2. What path to give?? If you want to keep in *assets* then **/assets** is your path
+     3. There are additional options also like Version/refresh, Compression. You can opt as per choice or leave it default only, unselected. 
+
+5. Now *Generate Favicons and HTML Code*, this will download a zipped file and give a block of code. 
+6. 
 
 
 
