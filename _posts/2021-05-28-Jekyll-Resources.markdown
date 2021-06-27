@@ -5,9 +5,9 @@ date:   2021-05-28 05:38:32 +0530
 categories: jekyll update
 ---
 
-<p style='text-align: justify;'>Firstly, building a Jekyll Github Page took me quite sometime (around 2 days, distributed over a week's time) even when I had some HTML and CSS experience. This means that if you read it is very easy for others don't stop feeling that you can't do it. I faced a lot of issues, and particularly that my webpage was developing fine locally, but not on remotely. Means that I was not able to host it on Github Pages. 
+<p style='text-align: justify;'> Firstly, building a Jekyll Github Page took me quite sometime (around 2 days, distributed over a week's time) even when I had some HTML and CSS experience. This means that if you read it is very easy for others don't stop feeling that you can't do it. I faced a lot of issues, and particularly that my webpage was developing fine locally, but not on remotely. Means that I was not able to host it on Github Pages. </p>
 
-This is a resource directory I used to create a page like this. Refer to them in order or as you like.</p>
+This is a resource directory I used to create a page like this. Refer to them in order or as you like.
 
 1. [Mike Dane](https://www.youtube.com/watch?v=gsYqPL9EFwQ) I learnt mostly from his videos. He explains step-by-step and it will be good to do things with him.
 
