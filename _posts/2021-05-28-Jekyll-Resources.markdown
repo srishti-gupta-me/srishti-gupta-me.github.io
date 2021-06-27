@@ -21,8 +21,8 @@ At this point it will be good to have some knowledge on git, [see this resource]
 
 **Updated on 26th June 2021**
 
-I have been trying to upload favicon to my webpage. Well, what is Favicon?? <br>A favicon, also known as a shortcut icon, website icon, tab icon, URL icon, or bookmark icon, is a file containing one or more small icons, associated with a particular website or web page.<br> So the small image or icon on the leftmost side of the tab that you can see (is my image). 
+I have been trying to upload favicon to my webpage. Well, what is Favicon?? <br>A favicon, also known as a shortcut icon, website icon, tab icon, URL icon, or bookmark icon, is a file containing one or more small icons, associated with a particular website or web page.So the small image or icon on the leftmost side of the tab that you can see (is my image). 
 
-It took me more than 24 hours distributed over days to implement it.<br>Understanding was easier, but in my case the solution given online weren't working. Once I was able to get the Favicon on my website, but the whole CSS vanished. Will explain reason behind this.<br> At this point understanding about layouts is good to understand. [To understand layouts](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-layouts/) : Helps in avoiding repetition and utilising existing layouts to build pages. 
+It took me more than 24 hours distributed over days to implement it.<br>Understanding was easier, but in my case the solution given online weren't working. Once I was able to get the Favicon on my website, but the whole CSS vanished. Will explain reason behind this. At this point understanding about layouts is good to understand. [To understand layouts](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-layouts/) : Helps in avoiding repetition and utilising existing layouts to build pages. 
 
 
