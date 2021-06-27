@@ -15,15 +15,14 @@ This is a resource directory I used to create a page like this. Refer to them in
 
 3. [To embed files](https://www.w3docs.com/snippets/html/how-to-embed-pdf-in-html.html) like pdfs, for example by Resume. 
 
-
 4. <p style='text-align: justify;'> [How to delete Git Repository](https://www.w3docs.com/snippets/git/how-to-delete-git-repository-created-with-init.html) . This was also my first experience working with git and I created many repositories and ended up deleting all and restarted the whole process. At this point it will be good to have some knowledge on git, [see this resource](https://www.atlassian.com/git/tutorials)</p>
 
 
 **Updated on 26th June 2021**
 
-**Favicons**: I have been trying to upload favicon to my webpage. Well, what is Favicon?? <br>A favicon, also known as a shortcut icon, website icon, tab icon, URL icon, or bookmark icon, is a file containing one or more small icons, associated with a particular website or web page.So the small image or icon on the leftmost side of the tab that you can see (is my image). 
+<p style='text-align: justify;'> **Favicons**: I have been trying to upload favicon to my webpage. Well, what is Favicon?? <br>A favicon, also known as a shortcut icon, website icon, tab icon, URL icon, or bookmark icon, is a file containing one or more small icons, associated with a particular website or web page.So the small image or icon on the leftmost side of the tab that you can see (is my image). </p>
 
-It took me more than 24 hours distributed over days to implement it. Understanding was easier, but in my case the solution given online weren't working. Once I was able to get the Favicon on my website, but the whole CSS vanished. Will explain reason behind this. At this point understanding about [layouts is good](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-layouts/). Using layouts help in avoiding repetition and utilising existing layouts/designs to build pages. 
+<p style='text-align: justify;'> It took me more than 24 hours distributed over days to implement it. Understanding was easier, but in my case the solution given online weren't working. Once I was able to get the Favicon on my website, but the whole CSS vanished. Will explain reason behind this. At this point understanding about [layouts is good](https://learn.cloudcannon.com/jekyll/introduction-to-jekyll-layouts/). Using layouts help in avoiding repetition and utilising existing layouts/designs to build pages. </p>
 
 1. To get favicon on your website, you need your image/text/emoji to be converted into a format that can be utilised by the browser for displaying. There are online websites that do the task for you. Like [Favicon Generator for perfect icons on all browsers](https://realfavicongenerator.net/)
 2. The site is intuitive, you have to upload your image (which you want to display as favicon). The generator will process and suggest you to give another picture if dimensions aren't right or suggest to add margin and proceed with the current selection. Any option will have you created your favicon, look may asethically change.
@@ -51,7 +50,7 @@ It took me more than 24 hours distributed over days to implement it. Understandi
 10. Now, we need to extract the favicons files that exist inside the zipped folder and place them inside the [*assets* directory](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/tree/gh-pages/assets).Now refresh the page or open the website in incognito mode or remove cache(clear browsing history).
 
 
-Optional info: the [head.html](https://github.com/jekyll/minima/blob/master/_includes/head.html) has a tag for custom-head.html. This tag should extract the above code block and render the favicon. However, in my case it didn't work that simply. Then, I tried to create a head.html file in my *_includes* directory because by now my page was building even when I am playing around with the code in the custom-head.html, specifically with the href values in it. This meant that the head.html isn't extracting my code block, else build would have failed. Adding head.html made CCS to vanish. A look at head.html made clear that it is looking for a css file (see for the below code in the file) and then [css file](https://github.com/jekyll/minima/tree/master/assets/css). To avoid all that, I decided to move with Step 8 solution. 
+<p style='text-align: justify;'> Optional info: the [head.html](https://github.com/jekyll/minima/blob/master/_includes/head.html) has a tag for custom-head.html. This tag should extract the above code block and render the favicon. However, in my case it didn't work that simply. Then, I tried to create a head.html file in my *_includes* directory because by now my page was building even when I am playing around with the code in the custom-head.html, specifically with the href values in it. This meant that the head.html isn't extracting my code block, else build would have failed. Adding head.html made CCS to vanish. A look at head.html made clear that it is looking for a css file (see for the below code in the file) and then [css file](https://github.com/jekyll/minima/tree/master/assets/css). To avoid all that, I decided to move with Step 8 solution. </p>
 
  ``` 
              <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
