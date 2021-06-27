@@ -46,8 +46,7 @@ It took me more than 24 hours distributed over days to implement it. Understandi
               <meta name="theme-color" content="#ffffff">
   ```
  6. You need to create a custom-head.html in your *_includes* folder/directory. If you dont have *_includes* , you need to create this folder/directory in the root directory(exlained above the meaning of root). Then create a html file named custom-head in it. Refer to [minima theme custom-head.html](https://github.com/jekyll/minima/blob/master/_includes/custom-head.html). It calls for the process we have done until now. 
- 7. Above code block to be pasted in custom-head.html file as it is. [Example](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_includes/custom-head.html). 
-           Optional info: the head.html has a tag  {%- include custom-head.html -%}. This tag should extract the above code block and render the favicon. However, in my case it didn't work that simply. I tried to create a head.html file in my *_includes* directory but then my CCS Vanished, because head.html searches for a css file ```` <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">````
+ 7. Above code block to be pasted in custom-head.html file as it is. [Example](https://github.com/srishti-gupta-me/srishti-gupta-me.github.io/blob/gh-pages/_includes/custom-head.html). <br> *Optional info: the head.html has a tag  {%- include custom-head.html -%}. This tag should extract the above code block and render the favicon. However, in my case it didn't work that simply. I tried to create a head.html file in my *_includes* directory but then my CCS Vanished, because head.html searches for a css file ```` <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">````*
 
 
 
