@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 
 This is the R Script I used to give a Beginner's R Workshop. The aim of the workshop, was not to give a introduction about the language. But to give an hands-on learning to the participant. Learning by doing. The R Script was written keeping in mind that participants don't have any pre-knoweldge of R. However, some working experience of spreadsheets would help understanding how the same operations can be scaled to a large dataset.
+
+The dataset I used was from [Lok Dhabha](https://lokdhaba.ashoka.edu.in/). The datasets are freely available for use.  
 ```
 #What and why R ?
 # is a programming language that allows you to Store | Manipulate | Visualise data 
@@ -180,8 +182,8 @@ fig
 ```
 
 #Helpful Resources 
-# 1. MOOCs: https://www.educative.io/courses/learn-r-from-scratch and many other
-# 2. Documentation: https://rdrr.io/r/ , https://www.r-project.org/other-docs.html, help() , ?
-# 3. Stack Overflow
-# 4. Plotly: Visualisation library: https://plotly.com/r/
+1. MOOCs: [Educative.io R Course](https://www.educative.io/courses/learn-r-from-scratch), just one among many other great sources
+2. Documentation: https://rdrr.io/r/, [R projects doc](https://www.r-project.org/other-docs.html), help() , ?
+3. Stack Overflow
+4. [Plotly](https://plotly.com/r/):Visualisation library: 
 
