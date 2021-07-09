@@ -183,7 +183,7 @@ fig
 
 #Helpful Resources 
 1. MOOCs: [Educative.io R Course](https://www.educative.io/courses/learn-r-from-scratch), just one among many other great sources available online
-2. Documentation: https://rdrr.io/r/, [R Rroject documentation](https://www.r-project.org/other-docs.html), help() , ?
+2. R Project Documentation: [Website](https://www.r-project.org/other-docs.html); Functions: help() , ?
 3. Stack Overflow
 4. [Plotly](https://plotly.com/r/):Visualisation library
 
