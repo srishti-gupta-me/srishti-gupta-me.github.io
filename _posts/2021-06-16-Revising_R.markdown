@@ -5,9 +5,8 @@ date:   2021-06-16 05:38:32 +0530
 categories: jekyll update
 ---
 
+This is the R Script I used to give a Beginner's R Workshop. The aim of the workshop, was not to give a introduction about the language. But to give an hands-on learning to the participant. Learning by doing. The R Script was written keeping in mind that participants don't have any pre-knoweldge of R. However, some working experience of spreadsheets would help understanding how the same operations can be scaled to a large dataset.
 ```
-#This is a RScript file
-
 #What and why R ?
 # is a programming language that allows you to Store | Manipulate | Visualise data 
 
