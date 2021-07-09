@@ -5,7 +5,7 @@ date:   2021-06-16 05:38:32 +0530
 categories: jekyll update
 ---
 
-
+```
 #This is a RScript file
 
 #What and why R ?
@@ -178,7 +178,7 @@ fig <- plot_ly(data = datatable, x = ~Age, y =~Position)
 fig <- fig %>% layout(title = 'Age versus Position', yaxis = list(zeroline = FALSE),xaxis = list(zeroline = FALSE))
 fig
 
-
+```
 
 #Helpful Resources 
 # 1. MOOCs: https://www.educative.io/courses/learn-r-from-scratch and many other
