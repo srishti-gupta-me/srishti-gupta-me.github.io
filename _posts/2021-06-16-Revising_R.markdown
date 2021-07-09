@@ -182,8 +182,10 @@ fig
 ```
 
 #Helpful Resources 
-1. MOOCs: [Educative.io R Course](https://www.educative.io/courses/learn-r-from-scratch), just one among many other great sources
-2. Documentation: https://rdrr.io/r/, [R projects doc](https://www.r-project.org/other-docs.html), help() , ?
+1. MOOCs: [Educative.io R Course](https://www.educative.io/courses/learn-r-from-scratch), just one among many other great sources available online
+2. Documentation: https://rdrr.io/r/, [R Rroject documentation](https://www.r-project.org/other-docs.html), help() , ?
 3. Stack Overflow
-4. [Plotly](https://plotly.com/r/):Visualisation library: 
+4. [Plotly](https://plotly.com/r/):Visualisation library
+
+Incase you figure out any errors and have feedbacks, please send them across [here](https://srishti-gupta-me.github.io/contact/)
 
