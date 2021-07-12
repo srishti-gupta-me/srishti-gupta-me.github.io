@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web Crawling/Scraping/Spidering with Selenium on Google Colab"
+title:  "Web Crawling or Scraping or Spidering with Selenium on Google Colab"
 date:   2021-07-12 05:38:32 +0530
 categories: jekyll update
 ---
