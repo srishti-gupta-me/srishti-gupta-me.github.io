@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Revising R"
+title:  "Revising R Data Tables"
 date:   2021-06-16 05:38:32 +0530
 categories: jekyll update
 ---
