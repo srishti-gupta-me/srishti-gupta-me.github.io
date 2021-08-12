@@ -6,6 +6,4 @@ categories: jekyll update
 ---
 
 <h4>Resources</h4>
-
-1. https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/
-
+Deleting columns in Pandas: [DataFrame.drop(labels=None, axis=0, index=None, columns=None, level=None, inplace=False, errors='raise')](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html)
