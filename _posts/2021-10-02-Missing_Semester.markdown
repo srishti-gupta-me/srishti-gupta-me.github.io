@@ -11,4 +11,5 @@ I am aiming to keep learning Deep Learning through fast.ai. The [Missing Semeste
 
 Things I need to come back to. 
 <ol>
-<li> POSIX Mode bash </ol>
+<li> POSIX Mode bash </li>
+</ol>
