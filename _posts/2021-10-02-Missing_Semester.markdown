@@ -12,3 +12,7 @@ I am aiming to keep learning Deep Learning through fast.ai. The [Missing Semeste
 <li> POSIX Mode bash </li>
 <li> Shebang(Unix) </li>
 </ol>
+
+Addtional Resources:
+
+1. [Linux File Permission](https://www.pluralsight.com/blog/it-ops/linux-file-permissions)
